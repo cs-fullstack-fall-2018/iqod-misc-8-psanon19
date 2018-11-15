@@ -1,6 +1,10 @@
 # IQOD_Misc_8
 
-Given a global const integer list all of the natural numbers (integers) leading up to it, the sum of all numbers, and the factorial of the number. Do this manually, don't use a built-in function. Push back to this repo.
+Given a global const integer list all of the 
+natural numbers (integers) leading up to it, 
+the sum of all numbers, and the factorial of 
+the number. Do this manually, don't use a built-in 
+function. Push back to this repo.
 
 ### Example
 
